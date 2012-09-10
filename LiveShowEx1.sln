@@ -1,0 +1,88 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LiveShowEx1", "LiveShowEx1.vcproj", "{6E5B82FB-E831-4A82-858B-30334A1AC6DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyServer", "..\ProxyServer\ProxyServer.csproj", "{0745B1AB-5F82-4FC7-9743-AB319D686575}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LiveShow", "..\LiveShow\LiveShow.vcproj", "{7745BFD7-727C-4BB4-8FEE-BBD769D2C883}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug DLL|Any CPU = Debug DLL|Any CPU
+		Debug DLL|Mixed Platforms = Debug DLL|Mixed Platforms
+		Debug DLL|Win32 = Debug DLL|Win32
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Release DLL|Any CPU = Release DLL|Any CPU
+		Release DLL|Mixed Platforms = Release DLL|Mixed Platforms
+		Release DLL|Win32 = Release DLL|Win32
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E5B82FB-E831-4A82-858B-30334A1AC6DC}.Debug DLL|Any CPU.ActiveCfg = dll|Win32
+		{6E5B82FB-E831-4A82-858B-30334A1AC6DC}.Debug DLL|Mixed Platforms.ActiveCfg = dll|Win32
+		{6E5B82FB-E831-4A82-858B-30334A1AC6DC}.Debug DLL|Mixed Platforms.Build.0 = dll|Win32
+		{6E5B82FB-E831-4A82-858B-30334A1AC6DC}.Debug DLL|Win32.ActiveCfg = dll|Win32
+		{6E5B82FB-E831-4A82-858B-30334A1AC6DC}.Debug DLL|Win32.Build.0 = dll|Win32
+		{6E5B82FB-E831-4A82-858B-30334A1AC6DC}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{6E5B82FB-E831-4A82-858B-30334A1AC6DC}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{6E5B82FB-E831-4A82-858B-30334A1AC6DC}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{6E5B82FB-E831-4A82-858B-30334A1AC6DC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6E5B82FB-E831-4A82-858B-30334A1AC6DC}.Debug|Win32.Build.0 = Debug|Win32
+		{6E5B82FB-E831-4A82-858B-30334A1AC6DC}.Release DLL|Any CPU.ActiveCfg = Release DLL|Win32
+		{6E5B82FB-E831-4A82-858B-30334A1AC6DC}.Release DLL|Mixed Platforms.ActiveCfg = Release DLL|Win32
+		{6E5B82FB-E831-4A82-858B-30334A1AC6DC}.Release DLL|Mixed Platforms.Build.0 = Release DLL|Win32
+		{6E5B82FB-E831-4A82-858B-30334A1AC6DC}.Release DLL|Win32.ActiveCfg = Release DLL|Win32
+		{6E5B82FB-E831-4A82-858B-30334A1AC6DC}.Release DLL|Win32.Build.0 = Release DLL|Win32
+		{6E5B82FB-E831-4A82-858B-30334A1AC6DC}.Release|Any CPU.ActiveCfg = Release|Win32
+		{6E5B82FB-E831-4A82-858B-30334A1AC6DC}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{6E5B82FB-E831-4A82-858B-30334A1AC6DC}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{6E5B82FB-E831-4A82-858B-30334A1AC6DC}.Release|Win32.ActiveCfg = Release|Win32
+		{6E5B82FB-E831-4A82-858B-30334A1AC6DC}.Release|Win32.Build.0 = Release|Win32
+		{0745B1AB-5F82-4FC7-9743-AB319D686575}.Debug DLL|Any CPU.ActiveCfg = dll|Any CPU
+		{0745B1AB-5F82-4FC7-9743-AB319D686575}.Debug DLL|Mixed Platforms.ActiveCfg = dll|Any CPU
+		{0745B1AB-5F82-4FC7-9743-AB319D686575}.Debug DLL|Mixed Platforms.Build.0 = dll|Any CPU
+		{0745B1AB-5F82-4FC7-9743-AB319D686575}.Debug DLL|Win32.ActiveCfg = dll|Any CPU
+		{0745B1AB-5F82-4FC7-9743-AB319D686575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0745B1AB-5F82-4FC7-9743-AB319D686575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0745B1AB-5F82-4FC7-9743-AB319D686575}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{0745B1AB-5F82-4FC7-9743-AB319D686575}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{0745B1AB-5F82-4FC7-9743-AB319D686575}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{0745B1AB-5F82-4FC7-9743-AB319D686575}.Release DLL|Any CPU.ActiveCfg = Release DLL|Any CPU
+		{0745B1AB-5F82-4FC7-9743-AB319D686575}.Release DLL|Mixed Platforms.ActiveCfg = Release DLL|Any CPU
+		{0745B1AB-5F82-4FC7-9743-AB319D686575}.Release DLL|Mixed Platforms.Build.0 = Release DLL|Any CPU
+		{0745B1AB-5F82-4FC7-9743-AB319D686575}.Release DLL|Win32.ActiveCfg = Release DLL|Any CPU
+		{0745B1AB-5F82-4FC7-9743-AB319D686575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0745B1AB-5F82-4FC7-9743-AB319D686575}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0745B1AB-5F82-4FC7-9743-AB319D686575}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{0745B1AB-5F82-4FC7-9743-AB319D686575}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{0745B1AB-5F82-4FC7-9743-AB319D686575}.Release|Win32.ActiveCfg = Release|Any CPU
+		{7745BFD7-727C-4BB4-8FEE-BBD769D2C883}.Debug DLL|Any CPU.ActiveCfg = Debug|Win32
+		{7745BFD7-727C-4BB4-8FEE-BBD769D2C883}.Debug DLL|Mixed Platforms.ActiveCfg = Debug|Win32
+		{7745BFD7-727C-4BB4-8FEE-BBD769D2C883}.Debug DLL|Mixed Platforms.Build.0 = Debug|Win32
+		{7745BFD7-727C-4BB4-8FEE-BBD769D2C883}.Debug DLL|Win32.ActiveCfg = Debug|Win32
+		{7745BFD7-727C-4BB4-8FEE-BBD769D2C883}.Debug DLL|Win32.Build.0 = Debug|Win32
+		{7745BFD7-727C-4BB4-8FEE-BBD769D2C883}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{7745BFD7-727C-4BB4-8FEE-BBD769D2C883}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{7745BFD7-727C-4BB4-8FEE-BBD769D2C883}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{7745BFD7-727C-4BB4-8FEE-BBD769D2C883}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7745BFD7-727C-4BB4-8FEE-BBD769D2C883}.Debug|Win32.Build.0 = Debug|Win32
+		{7745BFD7-727C-4BB4-8FEE-BBD769D2C883}.Release DLL|Any CPU.ActiveCfg = Release|Win32
+		{7745BFD7-727C-4BB4-8FEE-BBD769D2C883}.Release DLL|Mixed Platforms.ActiveCfg = Release|Win32
+		{7745BFD7-727C-4BB4-8FEE-BBD769D2C883}.Release DLL|Mixed Platforms.Build.0 = Release|Win32
+		{7745BFD7-727C-4BB4-8FEE-BBD769D2C883}.Release DLL|Win32.ActiveCfg = Release|Win32
+		{7745BFD7-727C-4BB4-8FEE-BBD769D2C883}.Release DLL|Win32.Build.0 = Release|Win32
+		{7745BFD7-727C-4BB4-8FEE-BBD769D2C883}.Release|Any CPU.ActiveCfg = Release|Win32
+		{7745BFD7-727C-4BB4-8FEE-BBD769D2C883}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{7745BFD7-727C-4BB4-8FEE-BBD769D2C883}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{7745BFD7-727C-4BB4-8FEE-BBD769D2C883}.Release|Win32.ActiveCfg = Release|Win32
+		{7745BFD7-727C-4BB4-8FEE-BBD769D2C883}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

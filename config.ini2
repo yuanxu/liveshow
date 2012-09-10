@@ -1,0 +1,12 @@
+[local]
+ip=192.168.21.126
+port=8086
+
+[server]
+ip=192.168.21.135
+port=8086	;tcp
+syncPort=8086	;udp
+
+[proxyServer]
+ip=192.168.21.135
+port=8255	;udp
